@@ -52,7 +52,7 @@
 
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul class="navbar-nav mr-auto">
-                                <a class="btn-block text-left nav-item nav-link mb-2 " href="/radiolab/web/talk/" >Talks</a><br>
+                                <a class="btn-block text-left nav-item nav-link mb-2 " href="/radiolab/web/projects/" >Projects</a><br>
                                 <a class="btn-block text-left nav-item nav-link mb-2 " href="/radiolab/web/people/" >People</a><br>
                                 <a class="btn-block text-left nav-item nav-link mb-2 " href="/radiolab/web/project/" >Projects</a><br>
                                 <a class="btn-block text-left nav-item nav-link mb-2 " href="/radiolab/web/ads/getpub/" >Recent Articles</a><br>
